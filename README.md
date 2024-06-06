@@ -1,2 +1,2 @@
-# Precourse-Hery-Fer
-Repositorio de prueba de precourse henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github
+
